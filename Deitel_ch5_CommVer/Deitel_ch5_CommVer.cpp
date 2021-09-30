@@ -1161,7 +1161,7 @@ return 0;
 
 // 5.29
 
-/*int main()
+int main()
 {
 	double amount = 0.0; // amount on account in the end of year
 	double principal = 24.0; // initial amount
@@ -1169,7 +1169,7 @@ return 0;
 	int yearPer; // define year period
 
 	cout << fixed << setprecision(2);
-	yearPer = 2021 - 1626; // calculation period of year
+	yearPer = 2020 - 1626; // calculation period of year
 
 	//for rate from 5% to 10% calculate compaund interest amount
 	for (rate = 5; rate <= 10; rate++)
@@ -1187,7 +1187,7 @@ return 0;
 		cout << endl; // print empty row
 	}
 	return 0;
-}*/
+}
 
 // 5.30
 
