@@ -1182,7 +1182,7 @@ int main()
 		{
 			amount = principal * pow(1.0 + (rate / 100), year); // calculate interest
 
-			cout << setw(1) << year << setw(24) << amount << endl; // print interest amount
+			cout << setw(4) << year << setw(24) << amount << endl; // print interest amount
 		}
 		cout << endl; // print empty row
 	}
