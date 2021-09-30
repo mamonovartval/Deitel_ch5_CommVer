@@ -1167,6 +1167,7 @@ int main()
 	double principal = 24.0; // initial amount
 	double rate; // define interest rate
 	int yearPer; // define year period
+	int oneCentury; // define  one century variable
 
 	cout << fixed << setprecision(2);
 	yearPer = 2020 - 1626; // calculation period of year
